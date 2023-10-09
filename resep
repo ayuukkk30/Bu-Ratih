@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resep Makanan</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Masak Bersama Ciyuk</h1>
+    <h4 style="font-size: 20px;">Cake Oreo 2 Bahan</h4>
+    <p style="font-size: 18px;">
+    <img src="oreo.jpg" width="225" alt="bintang"align="right" hspace="50" vspace="10" style="border-radius: 10px;">
+    Bahan-bahan :
+    <ul style="list-style-type: '*'">
+        <li>1 Bungkus oreo </li>
+        <li>1 kotak susu FullCream</li>
+    </ul>
+    </p>
+    <hr>
+    <h2>Langkah pembuatan : </h2>
+    <p style="font-size:18px">
+        <ol type="1">
+            <li>
+                Haluskan 1 bungkus oreo
+                <br>
+                <img src="fotoo/1pck.jpg" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Pindahkan ke wadah,lalu tuang susu fullcream secukupnya,aduk sampai menjadi adonan
+                <br>
+                <img src="fotoo/susu.jpg" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Masukkan ke wadah,lalu kukus sampai matang
+                <br>
+                <img src="fotoo/kukus.jpg" width="150" style="border-radius: 10px;">
+            </li>
+            <li>
+                Angkat dan sajikan.
+                <br>
+                <img src="fotoo/CAKE.jpg" width="150" style="border-radius: 10px;">
+            </li>
+        </ol>
+    </p>
+</body>
+</html>
